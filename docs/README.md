@@ -23,6 +23,8 @@ including:
 
 ### 2. Technical Laboratory Report
 
+[Magnetic-Levitation-Technical-Report.pdf](Magnetic-Levitation-Technical-Report.pdf)
+
 The technical report documents the experimental setup,
 controller implementation, calibration procedures,
 testing methodology, and conclusions.
