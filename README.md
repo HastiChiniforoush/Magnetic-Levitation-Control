@@ -83,6 +83,7 @@ Potential Improvements
 - Test all three controller types on the same object under identical conditions
 - Explore filtering and systematic gain-tuning methods
 - Evaluate disturbances and actuator saturation more quantitatively
+
 Author: Hasti Chiniforoush
 Course: Microelectronic Control Systems — Lab 4: Levitating Magnet
 Institution: Rhine-Waal University of Applied Sciences, Germany
