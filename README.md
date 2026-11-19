@@ -84,6 +84,32 @@ Potential Improvements
 - Explore filtering and systematic gain-tuning methods
 - Evaluate disturbances and actuator saturation more quantitatively
 
+
+## Experimental Demonstration Videos
+
+The following videos demonstrate the behavior of
+the magnetic levitation system under different
+feedback control algorithms.
+
+### P Controller
+Proportional control with visible oscillations around
+the desired levitation position.
+
+[Watch P Controller Demonstration](videos/PController.mp4)
+
+### PD Controller
+Proportional-derivative control with improved damping
+and reduced oscillations compared with P control.
+
+[Watch PD Controller Demonstration](videos/PDController.mp4)
+
+### PID Controller
+Proportional-integral-derivative control tested with a
+heavier block-shaped magnet, demonstrating the
+effect of integral action on steady-state behavior.
+
+[Watch PID Controller Demonstration](videos/PIDController.mp4)
+
 Author: Hasti Chiniforoush
 Course: Microelectronic Control Systems — Lab 4: Levitating Magnet
 Institution: Rhine-Waal University of Applied Sciences, Germany
