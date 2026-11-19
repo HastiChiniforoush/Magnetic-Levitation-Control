@@ -110,6 +110,23 @@ effect of integral action on steady-state behavior.
 
 [Watch PID Controller Demonstration](videos/PIDController.mp4)
 
+
+## Experimental Setup Photos
+
+### P Controller Experiment
+
+Magnetic levitation laboratory setup used for the
+P and PD controller experiments.
+
+![P Controller Experimental Setup](images/PController.png)
+
+### PID Controller Experiment
+
+Magnetic levitation setup used to test PID control
+with a heavier block-shaped magnet.
+
+![PID Controller Experimental Setup](images/PIDController.png)
+
 Author: Hasti Chiniforoush
 Course: Microelectronic Control Systems — Lab 4: Levitating Magnet
 Institution: Rhine-Waal University of Applied Sciences, Germany
