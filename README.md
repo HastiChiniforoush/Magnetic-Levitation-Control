@@ -127,6 +127,12 @@ with a heavier block-shaped magnet.
 
 ![PID Controller Experimental Setup](images/PIDController.png)
 
+
+## Technical Documentation
+
+- [Controller Comparison](docs/Controller-Comparison.md)
+- [Technical Laboratory Report](docs/Magnetic-Levitation-Technical-Report.pdf)
+
 Author: Hasti Chiniforoush
 Course: Microelectronic Control Systems — Lab 4: Levitating Magnet
 Institution: Rhine-Waal University of Applied Sciences, Germany
